@@ -1,0 +1,21 @@
+div {
+    display: block;
+    background-color: lightgrey;
+    font-size: 24px;
+    text-align: center;
+    padding: 20px 20px;
+}
+.vtore {
+    display: inline-block;
+    background-color: lightyellow;
+    font-size: 20px;
+    border: 2px solid black;
+    text-align: center;
+}
+.trete {
+    display: inline;
+    background-color: lightgreen;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
